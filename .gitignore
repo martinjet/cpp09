@@ -1,0 +1,9 @@
+# build output
+*.o
+*.d
+ex00/btc
+ex01/RPN
+ex02/PmergeMe
+
+# dataset supplied by 42 (not redistributed)
+ex00/data.csv
